@@ -1,0 +1,13 @@
+-- Rezz Tools database reference.
+-- The Azenm123 Supabase project is already configured for this project.
+-- Do not run this file blindly over the existing database.
+-- See README.md for the existing tables and access model.
+
+-- Existing tables:
+-- public.profiles
+-- public.tool_categories
+-- public.tools
+-- public.premium_plans
+-- public.premium_requests
+-- public.site_settings
+-- Existing roles: user, premium, admin, owner
